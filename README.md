@@ -28,7 +28,6 @@ U.S. Army Veteran building hands-on projects in security operations, threat dete
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA A+
-- Google IT Support Professional
 
 ## Currently Building
 
