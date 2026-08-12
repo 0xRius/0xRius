@@ -23,7 +23,9 @@ U.S. Army Veteran building hands-on projects in security operations, threat dete
 
 ## Certifications
 
+- ISC2 CCSP
 - CompTIA CySA+
+- CompTIA Security+
 - CompTIA Network+
 - CompTIA A+
 - Google IT Support Professional
