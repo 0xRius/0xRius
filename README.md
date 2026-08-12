@@ -6,7 +6,7 @@ U.S. Army Veteran building hands-on projects in security operations, threat dete
 
 ## Featured Project
 
-### [Operation Ghost Account: The RIUS Enterprise Insider Incident](https://github.com/0xRius/Rius-Enterprise-Soc-Lab)
+### [Operation Ghost Account: The RIUS Enterprise Insider Incident](https://github.com/0xRius/operation-ghost-account-soc-lab)
 
 **Status: Active Development**
 
