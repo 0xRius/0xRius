@@ -6,13 +6,17 @@ U.S. Army Veteran building hands-on projects in security operations, threat dete
 
 ## Featured Project
 
-### [Splunk Windows Authentication Monitoring](https://github.com/0xRius/splunk-windows-authentication-monitoring)
+### [Operation Ghost Account: The RIUS Enterprise Insider Incident](https://github.com/0xRius/Rius-Enterprise-Soc-Lab)
 
-- Ingested Windows Security logs into Splunk Cloud using the Universal Forwarder
-- Investigated successful and failed authentication events with SPL
-- Created a detection and scheduled alert for repeated failed logins
-- Built an interactive Windows authentication monitoring dashboard
-- Aligned the detection with MITRE ATT&CK T1110.001 – Password Guessing
+**Status: Active Development**
+
+Building a full-scale enterprise SOC lab around a simulated insider incident caused by failed employee offboarding controls.
+
+- Building an isolated environment with Windows 11, Active Directory, Kali Linux, Sysmon, and Splunk
+- Simulating retained account abuse, reconnaissance, PowerShell activity, persistence, lateral movement, and data staging
+- Developing and tuning SPL detections, alerts, and SOC dashboards
+- Investigating the incident and mapping activity to MITRE ATT&CK
+- Producing an incident timeline, root cause analysis, remediation plan, and final incident report
 
 ## Technical Skills
 
